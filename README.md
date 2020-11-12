@@ -1,2 +1,2 @@
-# HDsEMG-database-Codes associated with the databse creation
+# HDsEMG-database- Associated Codes
 HDsEMG Database - Codes associated with the databse creation
